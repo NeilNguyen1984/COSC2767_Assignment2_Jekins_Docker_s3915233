@@ -40,7 +40,7 @@
       <br>
       <span class="badge badge-danger">Your Hobby: Music</span>
       <br>
-      <span class="badge badge-warning">Your Favouritate Programming Language: Python & Java</span>
+      <span class="badge badge-warning">Your Favouritate Programming Language: Python & Java [change: HERE]</span>
       <!-- You only need to change these information, ends here! -->
       
 
